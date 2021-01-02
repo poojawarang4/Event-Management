@@ -1,5 +1,5 @@
-# Wedding_Planner_App
-This repository contains the java source code of Wedding Planner Application.
+Event Management_App
+This repository contains the java source code of Event Managemen Planner Application.
 
 Description:
 Developed an application for the user to plan a wedding according to their budget. Enhanced the application by providing variety of different ceremony locations, dresses, food items etc. for selection from the database. Implemented additional feature of allowing th user to send email as wedding invitation to the guests.
@@ -7,8 +7,7 @@ Developed an application for the user to plan a wedding according to their budge
 Prerequisite:
 Initially Java should be installed on to your machine in order to run this application. (Preferred version Java7)
 
-Author:
-Vipul Patil
+
 
 How to use it:
 1.	Open First register for the application by clicking on ‘Sign Up’ button and entering the required details like username and password (twice). After you sign up, you will have to log in using the same username and password.
